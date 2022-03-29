@@ -10,6 +10,8 @@ author: Jerry Sky
 
 Section contents.
 
+[link](dir/sub.md)
+
 Section contents.
 
 Section contents.
